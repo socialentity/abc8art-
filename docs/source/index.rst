@@ -1,22 +1,219 @@
-Welcome to Lumache's documentation!
+ABC8 - abc8.art - Nền Tảng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Abc8 <https://abc8.art/>`_ - Abc8.art tự hào là sân chơi cá cược trực tuyến hàng đầu Châu Á, nơi mang lại những trải nghiệm giải trí đầy thú vị cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Tại Abc8, bạn sẽ được tham gia vào nhiều loại hình game phong phú như: thể thao, esport, đá gà, bắn cá, game bài, lô đề online,... 
 
-.. note::
+Đặc biệt, chúng tôi luôn có những phần thưởng và khuyến mãi hấp dẫn dành riêng cho các thành viên. Hãy tham gia cùng chúng tôi để khám phá thế giới giải trí không giới hạn tại Abc8!
 
-   This project is under active development.
+Thông tin liên hệ:
 
-Contents
---------
+Website: `https://abc8.art/ <https://abc8.art/>`_
 
-.. toctree::
+Địa chỉ: 330 Nguyễn Duy Hiệu, Cẩm Châu, Hội An, Quảng Nam, Việt Nam
 
-   usage
-   api
+SĐT: 0355696475
+
+Email: info@abc8.art
+
+#abc8 #abc8art #nhacaiabc8 #trangchuabc8 #abc8casino
+
+`https://www.facebook.com/abc8art/ <https://www.facebook.com/abc8art/>`_
+`https://x.com/abc8art <https://x.com/abc8art>`_
+`https://www.youtube.com/@abc8art/about <https://www.youtube.com/@abc8art/about>`_
+`https://www.pinterest.com/abc8art/ <https://www.pinterest.com/abc8art/>`_
+`https://vimeo.com/abc8art <https://vimeo.com/abc8art>`_
+`https://www.blogger.com/profile/14628493412993690965 <https://www.blogger.com/profile/14628493412993690965>`_
+`https://gravatar.com/abc8art <https://gravatar.com/abc8art>`_
+`https://talk.plesk.com/members/abc8art.342294/#about <https://talk.plesk.com/members/abc8art.342294/#about>`_
+`https://www.tumblr.com/abc8art <https://www.tumblr.com/abc8art>`_
+`https://abc8art.wixsite.com/abc8art/post/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam <https://abc8art.wixsite.com/abc8art/post/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam>`_
+`https://zedthouth041.systeme.io/ <https://zedthouth041.systeme.io/>`_
+`https://www.openstreetmap.org/user/abc8art <https://www.openstreetmap.org/user/abc8art>`_
+`https://profile.hatena.ne.jp/abc8art/profile <https://profile.hatena.ne.jp/abc8art/profile>`_
+`https://archive.org/details/@abc8art <https://archive.org/details/@abc8art>`_
+`https://issuu.com/abc8art <https://issuu.com/abc8art>`_
+`https://www.twitch.tv/abc8art/about <https://www.twitch.tv/abc8art/about>`_
+`https://www.linkedin.com/in/abc8art/ <https://www.linkedin.com/in/abc8art/>`_
+`https://abc8art.bandcamp.com/album/abc8art <https://abc8art.bandcamp.com/album/abc8art>`_
+`https://abc8art.webflow.io/ <https://abc8art.webflow.io/>`_
+`https://disqus.com/by/abc8art/about/ <https://disqus.com/by/abc8art/about/>`_
+`https://about.me/abc8art <https://about.me/abc8art>`_
+`https://www.mixcloud.com/abc8art/ <https://www.mixcloud.com/abc8art/>`_
+`https://hub.docker.com/u/abc8art <https://hub.docker.com/u/abc8art>`_
+`https://500px.com/p/abc8art <https://500px.com/p/abc8art>`_
+`https://vws.vektor-inc.co.jp/forums/users/106483 <https://vws.vektor-inc.co.jp/forums/users/106483>`_
+`https://www.producthunt.com/@abc8art <https://www.producthunt.com/@abc8art>`_
+`https://abc8art.gitbook.io/abc8art <https://abc8art.gitbook.io/abc8art>`_
+`https://www.zillow.com/profile/abc8art <https://www.zillow.com/profile/abc8art>`_
+`https://www.provenexpert.com/abc8-art/ <https://www.provenexpert.com/abc8-art/>`_
+`https://abc8art.notion.site/ABC8-Nen-Tang-Ca-Cuoc-Truc-Tuyen-Uy-Tin-So-1-Viet-Nam-24398a83882349609a34deb177433bec <https://abc8art.notion.site/ABC8-Nen-Tang-Ca-Cuoc-Truc-Tuyen-Uy-Tin-So-1-Viet-Nam-24398a83882349609a34deb177433bec>`_
+`https://hllwy.ca/community/profile/abc8art/ <https://hllwy.ca/community/profile/abc8art/>`_
+`https://readthedocs.org/projects/abc8art/ <https://readthedocs.org/projects/abc8art/>`_
+`https://sketchfab.com/abc8art <https://sketchfab.com/abc8art>`_
+`https://www.discogs.com/fr/user/abc8art <https://www.discogs.com/fr/user/abc8art>`_
+`https://www.reverbnation.com/artist/abc8art <https://www.reverbnation.com/artist/abc8art>`_
+`https://connect.garmin.com/modern/profile/98e5fde2-e349-4ac7-a8cf-0364f1b46d86 <https://connect.garmin.com/modern/profile/98e5fde2-e349-4ac7-a8cf-0364f1b46d86>`_
+`http://resurrection.bungie.org/forum/index.pl?profile=abc8art <http://resurrection.bungie.org/forum/index.pl?profile=abc8art>`_
+`https://public.tableau.com/app/profile/abc8art/vizzes <https://public.tableau.com/app/profile/abc8art/vizzes>`_
+`https://because-gus.com/forums/participants/abc8art/ <https://because-gus.com/forums/participants/abc8art/>`_
+`https://tvchrist.ning.com/profile/abc8art <https://tvchrist.ning.com/profile/abc8art>`_
+`https://cdn.muvizu.com/Profile/abc8art/Latest <https://cdn.muvizu.com/Profile/abc8art/Latest>`_
+`https://3dwarehouse.sketchup.com/by/abc8art <https://3dwarehouse.sketchup.com/by/abc8art>`_
+`https://flipboard.com/@abc8art/ <https://flipboard.com/@abc8art/>`_
+`https://www.credly.com/users/abc8art/badges <https://www.credly.com/users/abc8art/badges>`_
+`https://heylink.me/abc8art/ <https://heylink.me/abc8art/>`_
+`https://jsfiddle.net/abc8art/e7u6xza5/ <https://jsfiddle.net/abc8art/e7u6xza5/>`_
+`https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/753128 <https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/753128>`_
+`https://www.walkscore.com/people/275692115479/abc8-art <https://www.walkscore.com/people/275692115479/abc8-art>`_
+`https://community.articulate.com/users/abc8art <https://community.articulate.com/users/abc8art>`_
+`https://forum.melanoma.org/user/abc8art/profile/ <https://forum.melanoma.org/user/abc8art/profile/>`_
+`https://hackerone.com/abc8art <https://hackerone.com/abc8art>`_
+`https://www.diigo.com/profile/abc8art <https://www.diigo.com/profile/abc8art>`_
+`https://telegra.ph/ABC8--Nen-Tang-Ca-Cuoc-Truc-Tuyen-Uy-Tin-So-1-Viet-Nam-06-01 <https://telegra.ph/ABC8--Nen-Tang-Ca-Cuoc-Truc-Tuyen-Uy-Tin-So-1-Viet-Nam-06-01>`_
+`https://host.io/abc8.art <https://host.io/abc8.art>`_
+`https://wakelet.com/@abc8art <https://wakelet.com/@abc8art>`_
+`https://visual.ly/users/abc8art/portfolio <https://visual.ly/users/abc8art/portfolio>`_
+`https://forum.acronis.com/it/user/664891 <https://forum.acronis.com/it/user/664891>`_
+`https://dreevoo.com/profile.php?pid=643743 <https://dreevoo.com/profile.php?pid=643743>`_
+`https://taplink.cc/abc8art <https://taplink.cc/abc8art>`_
+`https://hashnode.com/@abc8art <https://hashnode.com/@abc8art>`_
+`https://anyflip.com/homepage/rcaay#About <https://anyflip.com/homepage/rcaay#About>`_
+`https://forum.dmec.vn/index.php?members/abc8art.61514/ <https://forum.dmec.vn/index.php?members/abc8art.61514/>`_
+`https://www.instapaper.com/p/abc8art <https://www.instapaper.com/p/abc8art>`_
+`https://www.beatstars.com/abc8art/about <https://www.beatstars.com/abc8art/about>`_
+`https://beacons.ai/abc8art <https://beacons.ai/abc8art>`_
+`https://chart-studio.plotly.com/~abc8art <https://chart-studio.plotly.com/~abc8art>`_
+`http://abc8art.minitokyo.net/ <http://abc8art.minitokyo.net/>`_
+`https://sites.google.com/view/abc8art/abc8art <https://sites.google.com/view/abc8art/abc8art>`_
+`https://s.id/abc8art <https://s.id/abc8art>`_
+`https://writexo.com/share/2xm629vz <https://writexo.com/share/2xm629vz>`_
+`https://pbase.com/abc8art <https://pbase.com/abc8art>`_
+`https://audiomack.com/abc8art <https://audiomack.com/abc8art>`_
+`https://myanimelist.net/profile/abc8art <https://myanimelist.net/profile/abc8art>`_
+`https://linkr.bio/abc8art <https://linkr.bio/abc8art>`_
+`http://tf88ac.crowdfundhq.com/users/abc8art <http://tf88ac.crowdfundhq.com/users/abc8art>`_
+`https://www.mindmeister.com/app/map/3306167659?t=k2ocMfUtV9 <https://www.mindmeister.com/app/map/3306167659?t=k2ocMfUtV9>`_
+`https://leetcode.com/u/abc8art/ <https://leetcode.com/u/abc8art/>`_
+`https://hackmd.io/@abc8art/abc8art <https://hackmd.io/@abc8art/abc8art>`_
+`https://www.elephantjournal.com/profile/abc8art/ <https://www.elephantjournal.com/profile/abc8art/>`_
+`https://forum.index.hu/User/UserDescription?u=1999320 <https://forum.index.hu/User/UserDescription?u=1999320>`_
+`https://dadazpharma.com/question/abc8-%f0%9f%8f%85-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam/ <https://dadazpharma.com/question/abc8-%f0%9f%8f%85-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam/>`_
+`https://pxhere.com/en/photographer-me/4272544 <https://pxhere.com/en/photographer-me/4272544>`_
+`https://starity.hu/profil/453139-abc8art/ <https://starity.hu/profil/453139-abc8art/>`_
+`https://www.kfz-betrieb.vogel.de/community/user/abc8art <https://www.kfz-betrieb.vogel.de/community/user/abc8art>`_
+`https://www.spigotmc.org/members/abc8art.2038580/ <https://www.spigotmc.org/members/abc8art.2038580/>`_
+`https://www.furaffinity.net/user/abc8art <https://www.furaffinity.net/user/abc8art>`_
+`https://play.eslgaming.com/player/myinfos/20140665 <https://play.eslgaming.com/player/myinfos/20140665>`_
+`https://www.silverstripe.org/ForumMemberProfile/show/153448 <https://www.silverstripe.org/ForumMemberProfile/show/153448>`_
+`https://blender.community/abc8art/ <https://blender.community/abc8art/>`_
+`https://www.cgalliance.org/forums/members/abc8art.29249/#about <https://www.cgalliance.org/forums/members/abc8art.29249/#about>`_
+`https://www.emoneyspace.com/abc8art <https://www.emoneyspace.com/abc8art>`_
+`https://www.callupcontact.com/b/businessprofile/abc8art/9087598 <https://www.callupcontact.com/b/businessprofile/abc8art/9087598>`_
+`https://www.max2play.com/en/forums/users/abc8art/ <https://www.max2play.com/en/forums/users/abc8art/>`_
+`https://www.intensedebate.com/profiles/abc8art <https://www.intensedebate.com/profiles/abc8art>`_
+`https://graphcommons.com/u/abc8art <https://graphcommons.com/u/abc8art>`_
+`https://www.niftygateway.com/@abc8art <https://www.niftygateway.com/@abc8art>`_
+`https://files.fm/abc8art/info <https://files.fm/abc8art/info>`_
+`https://booklog.jp/users/abc8art/profile <https://booklog.jp/users/abc8art/profile>`_
+`https://socialtrain.stage.lithium.com/t5/user/viewprofilepage/user-id/66321 <https://socialtrain.stage.lithium.com/t5/user/viewprofilepage/user-id/66321>`_
+`https://www.wpgmaps.com/forums/users/abc8art/ <https://www.wpgmaps.com/forums/users/abc8art/>`_
+`https://vozforum.org/members/abc8art.317039/#about <https://vozforum.org/members/abc8art.317039/#about>`_
+`https://app.scholasticahq.com/scholars/293452-nha-cai-art <https://app.scholasticahq.com/scholars/293452-nha-cai-art>`_
+`https://ai.ceo/abc8art <https://ai.ceo/abc8art>`_
+`https://community.alteryx.com/t5/user/viewprofilepage/user-id/589159 <https://community.alteryx.com/t5/user/viewprofilepage/user-id/589159>`_
+`https://emseyi.com/user/abc8art <https://emseyi.com/user/abc8art>`_
+`https://www.hahalolo.com/@abc8art <https://www.hahalolo.com/@abc8art>`_
+`https://www.kooapp.com/profile/abc8art <https://www.kooapp.com/profile/abc8art>`_
+`https://abc8art.blogspot.com/2024/06/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin.html <https://abc8art.blogspot.com/2024/06/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin.html>`_
+`https://abc8art.hashnode.dev/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam <https://abc8art.hashnode.dev/abc8-nen-tang-ca-cuoc-truc-tuyen-uy-tin-so-1-viet-nam>`_
+`https://varecha.pravda.sk/profil/abc8art/o-mne/ <https://varecha.pravda.sk/profil/abc8art/o-mne/>`_
+`https://app.net/profile/abc8art <https://app.net/profile/abc8art>`_
+`https://app.roll20.net/users/13409344/abc8-art <https://app.roll20.net/users/13409344/abc8-art>`_
+`https://www.reddit.com/user/abc8art/ <https://www.reddit.com/user/abc8art/>`_
+`https://www.metal-archives.com/users/abc8art <https://www.metal-archives.com/users/abc8art>`_
+`https://www.veoh.com/users/abc8art <https://www.veoh.com/users/abc8art>`_
+`https://www.designspiration.com/abc8art/saves/ <https://www.designspiration.com/abc8art/saves/>`_
+`https://www.viewbug.com/member/abc8art <https://www.viewbug.com/member/abc8art>`_
+`https://www.bricklink.com/aboutMe.asp?u=abc8art <https://www.bricklink.com/aboutMe.asp?u=abc8art>`_
+`https://www.buzzbii.com/abc8art <https://www.buzzbii.com/abc8art>`_
+`https://www.malikmobile.com/abc8art <https://www.malikmobile.com/abc8art>`_
+`https://os.mbed.com/users/abc8art/ <https://os.mbed.com/users/abc8art/>`_
+`https://www.webwiki.com/abc8.art <https://www.webwiki.com/abc8.art>`_
+`https://hypothes.is/users/abc8art <https://hypothes.is/users/abc8art>`_
+`https://influence.co/abc8art <https://influence.co/abc8art>`_
+`https://www.fundable.com/user-903369 <https://www.fundable.com/user-903369>`_
+`https://data.world/abc8art <https://data.world/abc8art>`_
+`https://chillspot1.com/user/abc8art <https://chillspot1.com/user/abc8art>`_
+`https://www.bandlab.com/abc8art <https://www.bandlab.com/abc8art>`_
+`https://tupalo.com/en/users/6816611 <https://tupalo.com/en/users/6816611>`_
+`https://developer.tobii.com/community-forums/members/abc8art/ <https://developer.tobii.com/community-forums/members/abc8art/>`_
+`https://pinshape.com/users/4513794-abc8art#designs-tab-open <https://pinshape.com/users/4513794-abc8art#designs-tab-open>`_
+`https://community.arlo.com/t5/user/viewprofilepage/user-id/971356 <https://community.arlo.com/t5/user/viewprofilepage/user-id/971356>`_
+`https://www.fitday.com/fitness/forums/members/abc8art.html <https://www.fitday.com/fitness/forums/members/abc8art.html>`_
+`https://www.renderosity.com/users/id:1504406 <https://www.renderosity.com/users/id:1504406>`_
+`https://www.speedrun.com/users/abc8art <https://www.speedrun.com/users/abc8art>`_
+`https://www.longisland.com/profile/abc8art <https://www.longisland.com/profile/abc8art>`_
+`https://photoclub.canadiangeographic.ca/profile/21277210 <https://photoclub.canadiangeographic.ca/profile/21277210>`_
+`https://pastelink.net/six9bd1u <https://pastelink.net/six9bd1u>`_
+`https://www.mountainproject.com/user/201835750/nha-cai-art <https://www.mountainproject.com/user/201835750/nha-cai-art>`_
+` <>`_
+` <>`_
+`https://wibki.com/abc8art <https://wibki.com/abc8art>`_
+`https://www.gta5-mods.com/users/abc8art <https://www.gta5-mods.com/users/abc8art>`_
+`https://allods.my.games/forum/index.php?page=User&userID=150113 <https://allods.my.games/forum/index.php?page=User&userID=150113>`_
+`https://start.me/w/4rDvmb <https://start.me/w/4rDvmb>`_
+`https://www.divephotoguide.com/user/abc8art <https://www.divephotoguide.com/user/abc8art>`_
+`https://fileforum.com/profile/abc8art <https://fileforum.com/profile/abc8art>`_
+`https://scrapbox.io/abc8art/abc8art <https://scrapbox.io/abc8art/abc8art>`_
+`https://my.desktopnexus.com/abc8art/ <https://my.desktopnexus.com/abc8art/>`_
+`https://www.free-ebooks.net/profile/1569231/nha-cai-art <https://www.free-ebooks.net/profile/1569231/nha-cai-art>`_
+`https://my.archdaily.com/us/@abc8-art <https://my.archdaily.com/us/@abc8-art>`_
+`https://reactos.org/forum/memberlist.php?mode=viewprofile&u=101481 <https://reactos.org/forum/memberlist.php?mode=viewprofile&u=101481>`_
+`https://experiment.com/users/abc8art <https://experiment.com/users/abc8art>`_
+`https://imageevent.com/abc8art <https://imageevent.com/abc8art>`_
+`https://www.anobii.com/en/010ba8b700ff79d594/profile/activity <https://www.anobii.com/en/010ba8b700ff79d594/profile/activity>`_
+`https://profiles.delphiforums.com/n/pfx/profile.aspx?webtag=dfpprofile000&userId=1891222838 <https://profiles.delphiforums.com/n/pfx/profile.aspx?webtag=dfpprofile000&userId=1891222838>`_
+`https://blip.fm/abc8art <https://blip.fm/abc8art>`_
+`https://forums.alliedmods.net/member.php?u=372617 <https://forums.alliedmods.net/member.php?u=372617>`_
+`https://www.metooo.io/u/abc8art <https://www.metooo.io/u/abc8art>`_
+`https://ioby.org/users/zedthouth041845069 <https://ioby.org/users/zedthouth041845069>`_
+`https://vocal.media/authors/ab-c8-art <https://vocal.media/authors/ab-c8-art>`_
+`https://www.giveawayoftheday.com/forums/profile/192227 <https://www.giveawayoftheday.com/forums/profile/192227>`_
+`https://us.enrollbusiness.com/BusinessProfile/6707646/ABC8 <https://us.enrollbusiness.com/BusinessProfile/6707646/ABC8>`_
+`https://app.talkshoe.com/user/abc8art <https://app.talkshoe.com/user/abc8art>`_
+`https://forum.epicbrowser.com/profile.php?id=37507 <https://forum.epicbrowser.com/profile.php?id=37507>`_
+`http://www.rohitab.com/discuss/user/2201547-abc8art/ <http://www.rohitab.com/discuss/user/2201547-abc8art/>`_
+`https://wperp.com/users/abc8art/ <https://wperp.com/users/abc8art/>`_
+`https://www.bitsdujour.com/profiles/ohbroF <https://www.bitsdujour.com/profiles/ohbroF>`_
+`https://notabug.org/abc8art <https://notabug.org/abc8art>`_
+`https://worldcosplay.net/member/1773735 <https://worldcosplay.net/member/1773735>`_
+`https://abc8art.gallery.ru/ <https://abc8art.gallery.ru/>`_
+`https://git.qoto.org/abc8art <https://git.qoto.org/abc8art>`_
+`https://www.bigoven.com/user/abc8art <https://www.bigoven.com/user/abc8art>`_
+`http://hawkee.com/profile/7016288/ <http://hawkee.com/profile/7016288/>`_
+`https://www.sutori.com/en/user/nha-cai-art?tab=profile <https://www.sutori.com/en/user/nha-cai-art?tab=profile>`_
+`https://promosimple.com/ps/2cc1f/abc8-art <https://promosimple.com/ps/2cc1f/abc8-art>`_
+`https://gitlab.aicrowd.com/abc8art <https://gitlab.aicrowd.com/abc8art>`_
+`https://forums.bohemia.net/profile/1238334-abc8art/?tab=field_core_pfield_141 <https://forums.bohemia.net/profile/1238334-abc8art/?tab=field_core_pfield_141>`_
+`https://linkeei.com/abc8art <https://linkeei.com/abc8art>`_
+`http://lode88buzz.crowdfundhq.com/users/abc8art <http://lode88buzz.crowdfundhq.com/users/abc8art>`_
+`https://www.fimfiction.net/user/750210/abc8art <https://www.fimfiction.net/user/750210/abc8art>`_
+`http://www.askmap.net/location/6929891/vietnam/abc8 <http://www.askmap.net/location/6929891/vietnam/abc8>`_
+`https://doodleordie.com/profile/abc8art <https://doodleordie.com/profile/abc8art>`_
+`https://portfolium.com/abc8art <https://portfolium.com/abc8art>`_
+`https://www.curioos.com/abc8art <https://www.curioos.com/abc8art>`_
+`https://www.dermandar.com/user/abc8art/ <https://www.dermandar.com/user/abc8art/>`_
+`https://www.chordie.com/forum/profile.php?id=1970139 <https://www.chordie.com/forum/profile.php?id=1970139>`_
+`https://qooh.me/abc8art <https://qooh.me/abc8art>`_
+`https://forum.m5stack.com/user/abc8art <https://forum.m5stack.com/user/abc8art>`_
+`https://newspicks.com/user/10338307/ <https://newspicks.com/user/10338307/>`_
+`https://allmyfaves.com/abc8art <https://allmyfaves.com/abc8art>`_
+`https://my.djtechtools.com/users/1412498 <https://my.djtechtools.com/users/1412498>`_
+`https://en.bio-protocol.org/userhome.aspx?id=1508649 <https://en.bio-protocol.org/userhome.aspx?id=1508649>`_
+`https://glitch.com/@abc8art <https://glitch.com/@abc8art>`_
+`https://bikeindex.org/users/abc8art <https://bikeindex.org/users/abc8art>`_
+`https://www.facer.io/u/abc8art <https://www.facer.io/u/abc8art>`_
+`https://zumvu.com/abc8art/ <https://zumvu.com/abc8art/>`_
+`http://molbiol.ru/forums/index.php?showuser=1353645 <http://molbiol.ru/forums/index.php?showuser=1353645>`_
